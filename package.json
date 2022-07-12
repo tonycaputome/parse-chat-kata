@@ -1,0 +1,14 @@
+{
+  "name": "@tonycaputome/wf-code-challenge",
+  "version": "1.0.0",
+  "description": "A code challenge assesment for wonderflow interview process.",
+  "main": "src/index",
+  "scripts": {
+    "test": "jest --passWithNoTests"
+  },
+  "author": "Antonio Caputo",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^28.1.2"
+  }
+}
